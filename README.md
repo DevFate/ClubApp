@@ -1,4 +1,5 @@
-GCC Cycling Mobile Application
+***GCC Cycling Mobile Application***
+
 Overview
 Welcome to the Grimpeurs Cycling Club (GCC) Mobile Application repository! This Android app serves as a dedicated platform for all cycling enthusiasts, offering features such as event coordination, registration, route tracking, and community engagement. Developed as part of the SEG2105 Introduction to Software Engineering course, this project showcases the practical implementation of software engineering concepts, emphasizing collaboration and practical experience.
 
